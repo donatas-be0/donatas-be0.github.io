@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DB blog Site</title>
-    <link>https://donatas-be0.github.io:1313/posts/</link>
+    <link>https://donatas-be0.github.io/posts/</link>
     <description>Recent content in Posts on DB blog Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Nov 2025 21:22:09 +0200</lastBuildDate>
-    <atom:link href="https://donatas-be0.github.io:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://donatas-be0.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testas 99982</title>
-      <link>https://donatas-be0.github.io:1313/posts/antras/</link>
+      <link>https://donatas-be0.github.io/posts/antras/</link>
       <pubDate>Tue, 25 Nov 2025 21:22:09 +0200</pubDate>
-      <guid>https://donatas-be0.github.io:1313/posts/antras/</guid>
+      <guid>https://donatas-be0.github.io/posts/antras/</guid>
       <description>&lt;p&gt;Šis testas nesėkmingas. Rezultatas teigiamas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testas 99981</title>
-      <link>https://donatas-be0.github.io:1313/posts/pirmas/</link>
+      <link>https://donatas-be0.github.io/posts/pirmas/</link>
       <pubDate>Tue, 25 Nov 2025 17:14:54 +0200</pubDate>
-      <guid>https://donatas-be0.github.io:1313/posts/pirmas/</guid>
+      <guid>https://donatas-be0.github.io/posts/pirmas/</guid>
       <description>&lt;p&gt;Sis testas sekmingas. Rezultatas neigiamas.&lt;/p&gt;</description>
     </item>
   </channel>
